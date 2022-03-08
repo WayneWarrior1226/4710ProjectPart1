@@ -8,7 +8,7 @@
 
 public class users{
 	protected String userid;
-	protected String password;
+	protected String pass;
 	protected String fname;
 	protected String lname;
 	protected int birthday;
@@ -33,7 +33,7 @@ public users(String userid, String password, String fname, String lname, int bir
 
 public users(String password, String fname, String lname, int birthday, 
 		int streetnum, String street, String city, String state,int zip) {
-	this.password = password;
+	this.pass = password;
 	this.fname=fname;
 	this.lname=lname;
 	this.birthday = birthday;
@@ -55,11 +55,11 @@ public void setUserId(String userid) {
 }
 
 public String getPassword(){
-	return password;
+	return pass;
 }
 
 public void setPassword(String password) {
-	this.password = password;
+	this.pass = password;
 }
 
 public String getfname() {

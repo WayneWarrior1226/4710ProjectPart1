@@ -12,7 +12,8 @@
 	<center>
 	<h1>Welcome to PPS SWAP Social Media</h1>
 	<h2>
-		<a href = "">Sign Up</a>
+		<a href = "signup">Sign Up</a>
+		&nbsp;&nbsp;&nbsp;
 		<a href = "">Log In</a>
 		
 	</h2>
