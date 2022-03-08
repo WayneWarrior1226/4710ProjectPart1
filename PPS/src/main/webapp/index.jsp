@@ -6,23 +6,17 @@
 <meta charset="ISO-8859-1">
 	<center>
 		<title>PPS System</title>
-	</center>
 </head>
 <body>
-	<center>
 	<h1>Welcome to PPS SWAP Social Media</h1>
 	<h2>
+		<center>
 		<a href = "signup">Sign Up</a>
 		&nbsp;&nbsp;&nbsp;
-		<a href = "">Log In</a>
-		
-	</h2>
-	<b>Registration</b>
-	<p>Sign Up</p>
-
-	<b>Login Page</b>
-	<p>Login</p>
-	</center>
-
+		<a href = "login">Log In</a>
+		<br>
+		<br>
+		    <img src="img/lund.png" height="400" width="400">
+		</center>
 </body>
 </html>
