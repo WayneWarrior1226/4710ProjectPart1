@@ -6,7 +6,7 @@
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
+  background-color: white;  
 }  
 button {   
        background-color: #4CAF50;   
@@ -40,7 +40,7 @@ button {
      
  .container {   
         padding: 25px;   
-        background-color: lightblue;  
+        background-color: white;  
     }   
 </style>   
 </head>    
